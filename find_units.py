@@ -4,7 +4,6 @@ Created on 13 Sep 2017
 @author: Tor Eivind Syvertsen
 '''
 
-from textHelp import textHelp_handle
 import Levenshtein
 import re
 
